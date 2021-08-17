@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Grant Bodner (@gbodner1)
+- I’m interested in nuclear fusion, plasma physics, wall conditioning, and optical plasma diagnostics.
+- You can reach me at gbodner@pppl.gov.
