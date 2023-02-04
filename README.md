@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Grant Bodner (@gbodner1)
 - I’m an Experimental Scientist with General Atomics working on the DIII-D National Fusion Facility.
 - My scientific intersts include nuclear fusion, plasma physics, disruption mitigation, wall conditioning, Thomson scattering, and spherical tokamaks.
-- You can reach me at bodnerg@fusion.gat.com
+- You can reach me at bodnerg@fusion.gat.com.
